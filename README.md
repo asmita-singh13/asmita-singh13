@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning java and web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me * email: asmita.singh130603@gmail.com *
--                     * insta: whoisasmita._ *
+-                     * insta: asmita_singhh_ *
 
 <!---
 asmita-singh13/asmita-singh13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
