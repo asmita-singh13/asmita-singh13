@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning java and web development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me * email: asmita.singh130603@gmail.com *
+- 📫 How to reach me * email: asmita.ria103@gmail.com *
 -                     * insta: asmita_singhh_ *
 
 <!---
