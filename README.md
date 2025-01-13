@@ -2,6 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning java and web development
 - 📫 How to reach me * email: asmita.ria103@gmail.com *
+- ✨ Visit my portfolio * https://asmita.mystrikingly.com/ *
   
 
 <!---
