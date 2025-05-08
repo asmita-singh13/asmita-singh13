@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asmita-singh13
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning java and web development
+- 👀 I’m interested in playing with data
+- 🌱 I’m currently learning java and python
 - 📫 How to reach me * email: asmita.ria103@gmail.com *
 - ✨ Visit my portfolio * https://asmita.mystrikingly.com/ *
   
